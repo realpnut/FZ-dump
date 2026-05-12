@@ -1,0 +1,9 @@
+REM cleans trash
+DELAY 1000
+CONTROL ALT t
+DELAY 1000
+STRING rm -rf ~/.cache/* && rm -rf ~/.local/share/Trash/* && rm -rf ~/.thumbnails/* && rm -rf ~/.bash_history && history -c && clear
+ENTER
+DELAY 500
+STRING echo "User-level cleanup finished. Browsers, trash, and history cleared."
+ENTER
