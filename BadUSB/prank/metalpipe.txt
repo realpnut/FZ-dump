@@ -1,0 +1,9 @@
+DELAY 100
+GUI r
+DELAY 500
+STRING chrome https://www.youtube.com/watch?v=TAeNlpUIlRs
+ENTER
+DELAY 500
+ALT SPACE
+DELAY 300
+STRING n
