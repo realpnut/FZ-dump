@@ -1,5 +1,5 @@
 # FlipperZero Dump
-It includes different types of data such as:
+It includes different types of files such as:
 - BadUSB scripts (keyboard injection payloads)
 - IR (infrared remote control files)
 - SubGHz (radio remote control)
