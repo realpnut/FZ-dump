@@ -1,0 +1,9 @@
+GUI b
+DELAY 700
+CTRL l
+DELAY 700
+STRINGLN https://youareanidiot.cc
+STRINGLN https://youareanidiot.cc
+STRINGLN https://youareanidiot.cc
+STRINGLN https://youareanidiot.cc
+STRINGLN https://youareanidiot.cc
