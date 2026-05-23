@@ -9,8 +9,7 @@ Experimental captures, radio dumps, and ducky scripts. This is a digital basemen
 ├── BadUSB/           # Windows, Linux, Android payloads (mostly pranks)
 ├── infrared/         # Hikvision, CCTV & Promethean codes
 ├── NFC/              # Skipass dump (the crown jewel) & NFC pranks
-├── SubGHz/           # Nice Flor gates & misc radio captures
-└── smoke-alarm/      # Experimental RF triggers
+└── SubGHz/           # Nice Flor gates & misc radio captures
 ```
 
 ## [ NOTES ]
