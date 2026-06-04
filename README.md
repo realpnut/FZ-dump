@@ -6,10 +6,10 @@ Experimental captures, radio dumps, and ducky scripts. This is a digital basemen
 
 ```text
 .
-├── BadUSB/           # Windows, Linux, Android payloads (mostly pranks)
-├── infrared/         # Hikvision, CCTV & Promethean codes
-├── NFC/              # Skipass dump (the crown jewel) & NFC pranks
-└── SubGHz/           # Nice Flor gates & misc radio captures
+├── BadUSB/          
+├── infrared/         
+├── NFC/              
+└── SubGHz/          
 ```
 
 ## [ NOTES ]
