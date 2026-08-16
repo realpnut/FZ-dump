@@ -16,7 +16,9 @@ Experimental captures, radio dumps, and ducky scripts. This is a digital basemen
 
     Skipass: My most prized capture. Represents hours of figuring out NFC logic in the field.
 
-    random.sub: i found this in croatia
+    random.sub: i found this in croatia (2025)
+
+    hitachi.ir: i found this in croatia (but in 2026)
     
     BadUSB: metalpipe.txt is the peak of human engineering.
 
